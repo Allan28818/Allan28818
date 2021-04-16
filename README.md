@@ -1,9 +1,8 @@
 <h1 
 align="center"
 >
- <font
- color= "#00BFFF">Who's Allan?</font>
- </h1>
+ Who's Allan?
+</h1>
 
 <img src = "https://kinsta.com/pt/wp-content/uploads/sites/3/2020/04/ferramentas-de-revisao-de-codigo-1024x512.png" alt = "introducting-image">
 
@@ -60,6 +59,10 @@ I started programming in May 29th of 2020.
 Yes you can call me on Whatsapp or make a call with → +55 (61) 9 8410-3320 📞☎
 Or you can use this emails → allanzinhofontes@gmail.com or allanWebDeveloper.com@gmail.com 📧
 
+# CheckList:
+- [x] Do you like programming?
+- [x] Do you live in Brazil?
+- [ x ] 
  
 I hope you liked!
 
