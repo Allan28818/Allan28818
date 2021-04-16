@@ -59,10 +59,12 @@ I started programming in May 29th of 2020.
 Yes you can call me on Whatsapp or make a call with → +55 (61) 9 8410-3320 📞☎
 Or you can use this emails → allanzinhofontes@gmail.com or allanWebDeveloper.com@gmail.com 📧
 
-# CheckList:
+# Check List ✅
 - [x] Do you like programming?
 - [x] Do you live in Brazil?
-- [ x ] 
+- [x] Do you speak english and spanish?
+- [x] Do you know Javascript, HTML and CSS
+- [x] Do you **want** a job
  
 I hope you liked!
 
