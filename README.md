@@ -69,3 +69,4 @@ Or you can use this emails → allanzinhofontes@gmail.com or allanWebDeveloper.c
 I hope you liked!
 
 <img src = "https://2.bp.blogspot.com/-zo_2MFbLQgs/WQpalXw1SaI/AAAAAAAAPDw/JqaPRNGKChwDS7oqd5PSdhp09NBD5u7OwCLcB/s1600/1.gif" alt = "binary code" >
+---
