@@ -1,6 +1,6 @@
-<h1 align="center
-color = "#00BFFF"
-">Who's Allan?</h1>
+<h1 
+align="center"
+color= "#00BFFF">Who's Allan?</h1>
 
 <img src = "https://kinsta.com/pt/wp-content/uploads/sites/3/2020/04/ferramentas-de-revisao-de-codigo-1024x512.png" alt = "introducting-image">
 
