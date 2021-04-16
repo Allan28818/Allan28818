@@ -1,4 +1,4 @@
-<h1 aling="center
+<h1 align="center
 ">Who's Allan?</h1>
 
 <img src = "https://kinsta.com/pt/wp-content/uploads/sites/3/2020/04/ferramentas-de-revisao-de-codigo-1024x512.png" alt = "introducting-image">
