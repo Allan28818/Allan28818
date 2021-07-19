@@ -4,15 +4,15 @@ align="center"
  Who's Allan?
 </h1>
 
-<img src = "https://kinsta.com/pt/wp-content/uploads/sites/3/2020/04/ferramentas-de-revisao-de-codigo-1024x512.png" alt = "introducting-image">
+<img src = "https://kinsta.com/pt/wp-content/uploads/sites/3/2020/04/ferramentas-de-revisao-de-codigo-1024x512.png" alt = "introducting-image" width="100%" height="75%">
 
-# Hi welcome to my GitHub! <img src="https://camo.githubusercontent.com/c969d0c238f9ef9f371d1595fb3b4bd633bc4bc96f85a15d33588343243a8bae/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f646576706f73742f696d6167652f66657463682f732d2d51484743706e574b2d2d2f68747470733a2f2f6769746875622e636f6d2f6e70656e7472656c2f6f63746f636c697070792f626c6f622f6d61737465722f676966732f656172732e67696625334672617725334474727565" alt="github icon" width="5%" height="5%"/>
+# Hi welcome to my GitHub! <img src="https://camo.githubusercontent.com/c969d0c238f9ef9f371d1595fb3b4bd633bc4bc96f85a15d33588343243a8bae/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f646576706f73742f696d6167652f66657463682f732d2d51484743706e574b2d2d2f68747470733a2f2f6769746875622e636f6d2f6e70656e7472656c2f6f63746f636c697070792f626c6f622f6d61737465722f676966732f656172732e67696625334672617725334474727565" alt="🐈" width="5%" height="5%"/>
 
 Hello I'm a eternal student and programming lover, I love create tools that can help anybody get your desired results. 
 I think programming is a thing that can make you think more and can improve the world to a better place, 
 and I want to be a person that can improve the world with knowledge, code and a lot of coffee☕.
 
-# Which is the motive that made you start programming? 
+# Which is the motive that made you start programming? <img src="http://angelitomg.com/blog/wp-content/uploads/2012/02/Terminal.png" alt="⁉" width="5%" height="5%"/>
 Well, this is a long history, but I'll try to resume this. I'm a guy that loves too much study, I love study everything because I think the knowledge can change the people
 and the world, but I felt that my knowledge wasn't enough to do this, and I always loved technology and know how the things works. So I met the progrmming, and I hated, because
 there's a lot of code and things that nobody knows and it was too much difficult to me. But I realized that this was a challange, and I tryed it again and I started to like it,
