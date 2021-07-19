@@ -24,15 +24,15 @@ I'm from Brazil, more specific in Brasilia, capital of this country. So my nativ
 # Which technologies do you know? <img src="https://i.stack.imgur.com/INdOQ.gif" alt="🤖" width="5%" height="5%"/>
 I'm learning everyday, but I'm not an advanced developer, then I'm trying to reforce my skills and knowledges studying everyday but I like and
 know the below technologies:
- - JavaScript 💻💛
- - React.js ⚛💙
- - HTML advanced 🧡
- - CSS 💄📘
- - Node.js <img src="https://miro.medium.com/max/600/0*kjOwhsnRP6o9upOd.png" alt="" width="5%" height="5%" />
- - GIT <img src="https://butecotecnologico.com.br/images/wp-content/uploads/2014/11/Git-Icon-1788C.png" alt="🆑ℹ" width="5%" height="5%"/>
- - ES6 <img src="https://walde.co/wp-content/uploads/2016/05/es6-logo.png" alt="🧡📙" width="5%" height="5%" />
- - TypeScript <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="💻💙⬆" width="5%" height="5%"/>
- - SQL <img src="https://desenvolvimentoaberto.files.wordpress.com/2016/11/logoazuresql.png" alt="🐘🧠" width="5%" height="5%" />
+ - JavaScript <img src="https://pluralsight2.imgix.net/paths/images/javascript-542e10ea6e.png" alt="💻💛" width="5%" height="5%" />
+ - React.js <img src="https://media2.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif?cid=6c09b9523uttdb7yyu3u0kmgh79eacdkkboumwh8lnrcoeb4&rid=giphy.gif&ct=s" alt="⚛💙" width="5%"  height="5%" />
+ - HTML advanced <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="🧡" width="3%" height="4%" />
+ - CSS <img src="https://diegomariano.com/wp-content/uploads/2020/08/logo-2582747_640-e1597771254582.png" alt="💄📘" width="5%" height="5%" />
+ - Node.js <img src="https://miro.medium.com/max/600/0*kjOwhsnRP6o9upOd.png" alt="📗🌟" width="6%" height="5.5%" />
+ - GIT <img src="https://butecotecnologico.com.br/images/wp-content/uploads/2014/11/Git-Icon-1788C.png" alt="🆑ℹ" width="3%" height="3%"/>
+ - ES6 <img src="https://walde.co/wp-content/uploads/2016/05/es6-logo.png" alt="🧡📙" width="3%" height="3%" />
+ - TypeScript <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="💻💙⬆" width="3%" height="3%"/>
+ - SQL <img src="https://desenvolvimentoaberto.files.wordpress.com/2016/11/logoazuresql.png" alt="🐘🧠" width="3%" height="3%" />
  - TypeORM <img src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" alt="📘🐘" width="5%" height="5%" />
  - a little bit of Python <img src="https://lh3.googleusercontent.com/proxy/rLiDdZotctQ9B67X-jU443_PyMoIj6gZHfxMi9_S2R9QHfvxL9u7r5f0xYBeo267yvGC5JaWEyqrjIjBm5MkMtgbyy-flOffcY5JIetbL7EoRyWAYmLl0NK4ZZq1kHYzwLQxJYrIxF4yKxu0" alt="🐍📘🟨" width="5%" height="5%" />
 
