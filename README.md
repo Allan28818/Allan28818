@@ -6,7 +6,7 @@ align="center"
 
 <img src = "https://kinsta.com/pt/wp-content/uploads/sites/3/2020/04/ferramentas-de-revisao-de-codigo-1024x512.png" alt = "introducting-image">
 
-# Hi welcome to my GitHub! <img src="https://camo.githubusercontent.com/c969d0c238f9ef9f371d1595fb3b4bd633bc4bc96f85a15d33588343243a8bae/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f646576706f73742f696d6167652f66657463682f732d2d51484743706e574b2d2d2f68747470733a2f2f6769746875622e636f6d2f6e70656e7472656c2f6f63746f636c697070792f626c6f622f6d61737465722f676966732f656172732e67696625334672617725334474727565"/>
+# Hi welcome to my GitHub! <img src="https://camo.githubusercontent.com/c969d0c238f9ef9f371d1595fb3b4bd633bc4bc96f85a15d33588343243a8bae/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f646576706f73742f696d6167652f66657463682f732d2d51484743706e574b2d2d2f68747470733a2f2f6769746875622e636f6d2f6e70656e7472656c2f6f63746f636c697070792f626c6f622f6d61737465722f676966732f656172732e67696625334672617725334474727565" alt="github icon" width="20%" height="20%"/>
 
 Hello I'm a eternal student and programming lover, I love create tools that can help anybody get your desired results. 
 I think programming is a thing that can make you think more and can improve the world to a better place, 
