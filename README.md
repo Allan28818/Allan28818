@@ -34,7 +34,7 @@ know the below technologies:
  - TypeScript <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="💻💙⬆" width="3%" height="3%"/>
  - SQL <img src="https://desenvolvimentoaberto.files.wordpress.com/2016/11/logoazuresql.png" alt="🐘🧠" width="3%" height="3%" />
  - TypeORM <img src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" alt="📘🐘" width="5%" height="5%" />
- - a little bit of Python <img src="https://lh3.googleusercontent.com/proxy/rLiDdZotctQ9B67X-jU443_PyMoIj6gZHfxMi9_S2R9QHfvxL9u7r5f0xYBeo267yvGC5JaWEyqrjIjBm5MkMtgbyy-flOffcY5JIetbL7EoRyWAYmLl0NK4ZZq1kHYzwLQxJYrIxF4yKxu0" alt="🐍📘🟨" width="5%" height="5%" />
+ - a little bit of Python <img src="https://diegomariano.com/wp-content/uploads/2021/09/unnamed.png" alt="🐍📘🟨" width="5%" height="5%" />
 
 # How many languages do you know? <img src="https://ps.w.org/serbian-transliteration/assets/icon-256x256.png?rev=2374607" alt="👅&#127463;&#127479;" width="5%" height="5%"/>
 Like you may realized, I study and speak english, but a like and study another languages like spanish, chinese and italian.
