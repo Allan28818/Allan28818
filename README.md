@@ -5,10 +5,10 @@
 ---
 
 # Index: 
-- Who am I?
-- Hard skills
-- Soft skills
-- Contact
+- [Who am I?](#who-am-i)
+- [Hard skills](#hard-skills)
+- [Soft skills](#soft-skills)
+- [Contact](#contact)
 ---
 <br>
 
