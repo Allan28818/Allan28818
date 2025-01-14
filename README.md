@@ -1,65 +1,19 @@
-<div align="center">
- <img src="https://ik.imagekit.io/jp1xbaqmsn6/cover_faZZSJjzKR.png?updatedAt=1689605129754" width=75%" height="50%"/>
-</div>
+## Allan Oliveira
+Emprenteneur and CTO at Tech To You
 
----
+I am a problem solver and techonology enthusiast. Currently I am a mobile and fullstack developer looking for projects and oportunities to learn and discover more about technology.
+Wether you want to know and help me to reach my goal to be a senior developer follow me here and in my social medias. I am also open for partnerships and projects developments.
 
-# Index: 
-- [Who am I?](#who-am-i)
-- [Hard skills](#hard-skills)
-- [Soft skills](#soft-skills)
-- [Contact](#contact)
----
+> "Hard work is useless for those who don't believe in themselves"
+
+[LinkedIn](https://www.linkedin.com/in/allan-julie/)
 <br>
+[Phone: +55 (61) 9 8410-3320](https://wa.me/5561984103320?text=Hello!%20I%20came%20from%20Github%20and%20I%20want%20to%20talk%20to%20you%20about%20technology!)
+<br>
+[Email: ajfo1206@gmail.com](mailto:ajfo1206@gmail.com?subject=I%20came%20from%20Github%20and%20I%20want%20to%20talk%20to%20you)
 
-# Who am I? 
-My name is Allan Julie Fontes de Oliveira and I am a developer who started programming at May 29th of 2021. I was born in January 4th of 2006 and since I was a child I wanted to change the world and overcome myself. Using programming I learned that I can help people and make the world a better place! 
-
-# Hard skills:
-As a fullstack developer I study the following technologies and languages:
-- For front-end:
-  - JavaScript;
-  - TypeScript;
-  - React.js;
-  - React Native;
-  - Next.js;
-  - HTML;
-  - CSS;
-  - Sass;
-  -  Bootstrap;
-- For back-end:
-  - JavaScript;
-  - TypeScript;
-  - Node.js;
-  - Python;
-  - C;
-  - Yup;
-  - Jest;
-- Database:
-  - Vanilla SQL;
-  - TypeORM;
-  - Prisma;
-  - MongoDB;
-  - Firestore Database;
-- DevOps:
-  - AWS;
-  - Vercel;
-  - Git & Github;
-  - CI/CD;
-- Languages:
-  - Portuguese (Native Language);
-  - English (Advanced);
-  - Spanish (Advanced);
-  - Italian (Intermediate);
-  - Chinese (Basic);
-  - Japanese (Basic);
-
-# Soft skills
-I am the kind of person that always wants to improve and learn with others. I'm organized and I'm honest. For me, respect and discipline are essential to work in a team and everyday I monitore myself to increase these values. As an enternal learner, I care about the journey and I want to improve the environment around me. 
-
-# Contact:
-Call me whenever you want. I'm here to help people!
-- [<div title="Access my Github"><img  align="center" src="https://ik.imagekit.io/jp1xbaqmsn6/github.png?updatedAt=1689607290169" alt="Github" width="40px" height="40px"/></div>](https://www.github.com/Allan28818)
-- [<div title="Access my LinkedIn"><img align="center" src="https://ik.imagekit.io/jp1xbaqmsn6/image_KCeHezmnd.png?updatedAt=1689606823722" alt="LinkedIn" with="120px" height="90px"/></div>](https://www.linkedin.com/in/allan-julie)
-- Email ✉️: allanzinhofontes@gmail.com;
-- Phone number 📞: +55 (61) 9 8410-3320;
+<div align="center">
+ <a target="_blank" href="https://www.linkedin.com/company/tech-to-you/"><img src="https://ik.imagekit.io/bzpfkdidw/tech-to-you-white?updatedAt=1736858998044" alt="Tech To You" width="15%" height="15%" style="align-self:center;margin:auto"/></a>
+ <br>
+ <a target="_blank" href="https://www.linkedin.com/company/tech-to-you/"><img src="https://ik.imagekit.io/bzpfkdidw/A%20milenar%20arte%20de%20fazer%20o%20futuro.png?updatedAt=1736862248379" alt="A milenar arte de fazer o futuro"/></a>
+</div>
